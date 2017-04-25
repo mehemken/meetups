@@ -22,13 +22,13 @@ I'd like to find out what people are using in development and how they determine
 
 ## Decisions
 
-- What is the topic of my study group?
+- What is the name of my study group?  
     Cloud Ops 101
 
-- How often?
+- How often?  
     Fortnightly
 
-- Exact dates?
+- Exact dates?  
     9am to Noon on the following Saturdays
     Sat May 13
     Sat May 27
@@ -39,12 +39,12 @@ I'd like to find out what people are using in development and how they determine
     Sat August 5
     Sat August 19
 
-- Where?
+- Where?  
     8 Espressos in Santa Monica
     http://www.8espressos.com/menu-1.html
 
-- Description
-    Welcome to Cloud Ops 101!
+- Description  
+    Welcome to Cloud Ops 101!  
     A fortnightly meetup dedicated to learning the fundamentals of building and maintaining systems in the cloud. This meetup will host a study session every two weeks with a main focus on AWS certification exams. Bring your questions, ideas and insights! There are many services provided by AWS and your expertise may help others and vice versa. All levels are welcome. I'd like to build a welcoming group of folks who want to learn and help others learn. A rising tide floats all ships. Just bring your enthusiasm and perhaps your laptop.
 
     Agenda
