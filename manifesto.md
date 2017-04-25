@@ -47,6 +47,8 @@ I'd like to find out what people are using in development and how they determine
     Welcome to Cloud Ops 101!  
     A fortnightly meetup dedicated to learning the fundamentals of building and maintaining systems in the cloud. This meetup will host a study session every two weeks with a main focus on AWS certification exams. Bring your questions, ideas and insights! There are many services provided by AWS and your expertise may help others and vice versa. All levels are welcome. I'd like to build a welcoming group of folks who want to learn and help others learn. A rising tide floats all ships. Just bring your enthusiasm and perhaps your laptop.
 
+    Topics we will be covering are [AWS][1], [GCP][2], [CI][3]/[CD][4], [Jenkins][5], and my pet programming language [Python][6].
+
     Agenda  
     From 9am to 10am we will have a networking portion of the meetup. Use this segment of the meetup to find others with similar goals as yourself. They may become valuable contacts as you learn and seek new career opportunities.
 
@@ -60,3 +62,10 @@ I'd like to find out what people are using in development and how they determine
 
     Slack Channel  
     This is your best resource for finding and connection with your new study groups. Sign up at https://learnteachcode.herokuapp.com/
+
+[1]: https://aws.amazon.com/certification/our-certifications/ "AWS Certification"
+[2]: https://cloud.google.com/certification/ "Google Cloud Certification"
+[3]: https://en.wikipedia.org/wiki/Continuous_integration "Continuous integration"
+[4]: https://en.wikipedia.org/wiki/Continuous_delivery "Continuous delivery"
+[5]: https://www.cloudbees.com/jenkins/jenkins-certification "Jenkins certification"
+[6]: https://docs.python.org/3/ "Python 3 documentation"
