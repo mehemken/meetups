@@ -18,7 +18,7 @@ In Santa Monica.
 
 ## What do I hope to learn from being a host?
 
-I'd like to find out what people are using in development and how they determine what new technologies to learn. As a newcomer to the field, I feel that there are many unknowns.
+I'd like to find out what people are using in development and how they determine what new technologies to learn. As a newcomer to the field, I feel that there are many unknowns. I hope to fill the gaps in my knowledge and help others do the same.
 
 ## Decisions
 
@@ -60,5 +60,3 @@ I'd like to find out what people are using in development and how they determine
 
     Slack Channel
     This is your best resource for finding and connection with your new study groups. Sign up at https://learnteachcode.herokuapp.com/
-
-to be continued
